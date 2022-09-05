@@ -1,0 +1,9 @@
+pandoc: 2.14.2
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles: {}
+last_built: 2022-09-05T04:55Z
+urls:
+  reference: https://gabbytaylor.github.io/ohwhaley/reference
+  article: https://gabbytaylor.github.io/ohwhaley/articles
+
