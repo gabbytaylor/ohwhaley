@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Gabrielle", "Taylor", , "gabrielle.taylor1@students.mq.edu.au", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Creates a whale to tell you a fun phrase (whale puns!).
+Description: Creates a whale to tell you a cute phrase (mainly whale puns!).
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
